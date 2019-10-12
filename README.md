@@ -1,0 +1,2 @@
+# NanaMinta
+Brains behind IT
